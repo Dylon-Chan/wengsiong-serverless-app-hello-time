@@ -1,2 +1,2 @@
-# AWS Serverless Lambda: Greeting and Current Time API
+# AWS Serverless Lambda with Python: Greeting and Current Time API
 This project demonstrates an AWS Serverless Lambda function that provides a simple API to greet users with "Good morning," "Good afternoon," or "Good evening" based on the current time in Singapore. When invoked, the Lambda function returns a response with the personalized greeting and the current date and time in the Asia/Singapore timezone. The project showcases the use of AWS API Gateway, Lambda functions, and Python programming to create a serverless API with time-aware greetings.
